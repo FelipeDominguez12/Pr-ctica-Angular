@@ -18,7 +18,7 @@ export class ClientesService {
       },
       {
         id:1,
-        nombre: 'Activo'
+        nombre: 'Activos'
       },
       {
         id:2,
